@@ -8,7 +8,16 @@ public class Lab {
      * @param b the second part of the string to be combined.
      * @return the combination of strings a and b.
      */
+    //String a;
+    //String b;
+
+    //a = "Hi,suptiya";
+    //b = "Welcome in Gitpod Java";
+
     public String combine(String a, String b){
-        return "";
+        String str1= a + b;
+
+
+         return str1;
     }
 }
